@@ -27,6 +27,7 @@ int main(void)
         if(write(fd[1],&x,sizeof(int)) == -1)//writing to pipe file descriptor. basically write fd[1] address of x with a size of an int (4 bytes) of space
         {
             printf("Fuck I CAN'T WRITEEEEEEEEE\n");
+            close(fd[1]);   //To be cautious
             return(-5);
         }            
         close(fd[1]);   //Close the write end of pipe...close your shit when you are done bois
@@ -39,6 +40,7 @@ int main(void)
         if (read(fd[0],&y,sizeof(int)) == -1) //read fd0 write to 'buffer' y size of 4 bytes
         {
                 printf("FUCK I FORGOT HOW TO READ\n");
+                close(fd[0]);   //To be cautious
                 return(-13);    //Yeah I am selecting random prime numbers lulz.
         }
         close(fd[0]);

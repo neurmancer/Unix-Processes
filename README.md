@@ -7,6 +7,8 @@
 - Added 2.c, about wait() (Introduction)
 - Added 3.c, still about wait(but now I partially know what the NULL thingy is)
 - Added 4.c, about pipe() (it was cool, felt like cyber-sorcery)
+- Added 5.c, using pipe() to split work between processes (R.I.P my Ryzen5 2600X from 2018)
+
 
 ## Examples 
 - This part is fuck around and find out zone(probably will have a forkbomb for fun too)
@@ -14,5 +16,5 @@
 
 ## STATS
 
-- Encountered zombies : 0
-- Killed Childs : 0
+- **Encountered zombies** : 0
+- **Killed children** : 0
