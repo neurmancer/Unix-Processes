@@ -1,2 +1,9 @@
-# Unix-Processes
-Unix processes introdcution lectures/examples for myself
+# Unix-Processes 
+
+- **This repo is for learning fork() and processes for improve ShittyJukebox project and all the lecture(ish) shit will be in here**
+
+## Lectures
+- None yet.
+
+## Examples 
+- This part is fuck around and find out zone(probably will have a forkbomb for fun too)
