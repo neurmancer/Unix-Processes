@@ -12,6 +12,7 @@
 
 ## Examples 
 - This part is fuck around and find out zone(probably will have a forkbomb for fun too)
+- Yup I did as I said added a fucking fork bomb without any guardrails using it isn't advised and at your own risk(IDC)
 
 
 ## STATS
