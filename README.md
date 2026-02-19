@@ -11,6 +11,7 @@
 - Added 6.c about fifo() an introduction to fifos
 - Added 7-1.c & 7-2.c continuing to poke fifo() and idea is reading data in 7-2.c written to 'sum' by 7-1.c compile <br>
 them both and execute at the same time or they'll simply wait idle 
+- Added 8.c about IPC with more than one pipe sending/getting data from both parent and child process
 
  
 ## Examples 
@@ -20,5 +21,5 @@ them both and execute at the same time or they'll simply wait idle
 
 ## STATS
 
-- **Encountered zombies** : 0
-- **Killed children** : 0
+- **Encountered zombies** : 2
+- **Killed children** : 1   (R.I.P)
