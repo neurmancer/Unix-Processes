@@ -12,8 +12,8 @@
 - Added 7-1.c & 7-2.c continuing to poke fifo() and idea is reading data in 7-2.c written to 'sum' by 7-1.c compile <br>
 them both and execute at the same time or they'll simply wait idle 
 - Added 8.c about IPC with more than one pipe sending/getting data from both parent and child process
+- Added 9.c about execlp() and running bash commands on terminal
 
- 
 ## Examples 
 - This part is fuck around and find out zone(probably will have a forkbomb for fun too)
 - Yup I did as I said added a fucking fork bomb without any guardrails using it isn't advised and at your own risk(IDC)
