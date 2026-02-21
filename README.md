@@ -13,6 +13,8 @@
 them both and execute at the same time or they'll simply wait idle 
 - Added 8.c about IPC with more than one pipe sending/getting data from both parent and child process
 - Added 9.c about execlp() and running bash commands on terminal
+- Added 10.c about error handling and wait(&errID)
+
 
 ## Examples 
 - This part is fuck around and find out zone(probably will have a forkbomb for fun too)
