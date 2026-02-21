@@ -13,7 +13,7 @@ int main(void)
     
     if (pid == 0)
     {
-        execlp("ping","ping","-c",3,"google.com",NULL); // That's gonna ping google 3 times
+        execlp("ping","ping", "google.com", "-c","3",NULL); // That's gonna ping google 3 times
     }
     
     else{
