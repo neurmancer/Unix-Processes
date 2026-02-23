@@ -15,7 +15,9 @@ them both and execute at the same time or they'll simply wait idle
 - Added 9.c about execlp() and running bash commands on terminal
 - Added 10.c about error handling and wait(&errID)
 - Added 11.c based on 10.c and redirecting exec()'s output to another file using dup2()
-- Added 12.c about signals (brief introduction) using kill() to terminate a infinite loop in child process
+- Signal lectures moved to a subfolder called SIGUSR1(just for fun)
+- - Added 12.c about signals (brief introduction) using kill() to terminate a infinite loop in child process
+- - Added 13.c about SIGCONT and SIGSTOP
  
 
 ## Examples 
