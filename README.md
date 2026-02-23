@@ -20,6 +20,7 @@ them both and execute at the same time or they'll simply wait idle
 - - Added 13.c about SIGCONT and SIGSTOP
 - - Added 14.c a mini lecture about sigtstp 
 - - Added 15.c using 14.c to show how signal handling works and shit(briefly)
+- - Added 16.c about SIGUSR1 (HE SAID THE TITLE OF THE FOLDER BOISSSS) 
  
 
 ## Examples 
