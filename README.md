@@ -18,6 +18,8 @@ them both and execute at the same time or they'll simply wait idle
 - Signal lectures moved to a subfolder called SIGUSR1(just for fun)
 - - Added 12.c about signals (brief introduction) using kill() to terminate a infinite loop in child process
 - - Added 13.c about SIGCONT and SIGSTOP
+- - Added 14.c a mini lecture about sigtstp 
+- - Added 15.c using 14.c to show how signal handling works and shit(briefly)
  
 
 ## Examples 
