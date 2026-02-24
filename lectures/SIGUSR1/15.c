@@ -16,7 +16,7 @@ void handle_sigstp(int sig)
 int main(void)
 {
     /*Honest take tho just use signal() bro...
-    btw I am fucking with you learn sigaction instead for compability reasons etc. 
+    btw I am fucking with you, learn sigaction instead for compatibility reasons etc. 
     https://man7.org/linux/man-pages/man2/signal.2.html <- Here is why nerds
     */
 
