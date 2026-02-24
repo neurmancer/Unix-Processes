@@ -21,12 +21,12 @@ them both and execute at the same time or they'll simply wait idle
 - - Added 14.c a mini lecture about sigtstp 
 - - Added 15.c using 14.c to show how signal handling works and shit(briefly)
 - - Added 16.c about SIGUSR1 (HE SAID THE TITLE OF THE FOLDER BOISSSS) 
- 
+- Added 17.c about sending arrays(int array to be specific) using pipes  
 
 ## Examples 
 - This part is fuck around and find out zone(probably will have a forkbomb for fun too)
 - Yup I did as I said added a fucking fork bomb without any guardrails using it isn't advised and at your own risk(IDC)
-- Added a baic one time stop/resume button to a ffplay (ffplay required on system this to work)
+- Added a baic one time stop/resume button to a ffplay (ffplay required on system for this to work)
  
 
 ## STATS
