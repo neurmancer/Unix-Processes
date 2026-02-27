@@ -22,6 +22,7 @@ them both and execute at the same time or they'll simply wait idle
 - - Added 15.c using 14.c to show how signal handling works and shit(briefly)
 - - Added 16.c about SIGUSR1 (HE SAID THE TITLE OF THE FOLDER BOISSSS) 
 - Added 17.c about sending arrays(int array to be specific) using pipes  
+- Added 18.c about sending strings (char arrays) using pipes
 
 ## Examples 
 - This part is fuck around and find out zone(probably will have a forkbomb for fun too)
