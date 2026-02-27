@@ -23,7 +23,7 @@ them both and execute at the same time or they'll simply wait idle
 - - Added 16.c about SIGUSR1 (HE SAID THE TITLE OF THE FOLDER BOISSSS) 
 - Added 17.c about sending arrays(int array to be specific) using pipes  
 - Added 18.c about sending strings (char arrays) using pipes
-
+- Added 19.c about simulating | operator with pipes
 ## Examples 
 - This part is fuck around and find out zone(probably will have a forkbomb for fun too)
 - Yup I did as I said added a fucking fork bomb without any guardrails using it isn't advised and at your own risk(IDC)
