@@ -26,6 +26,8 @@ them both and execute at the same time or they'll simply wait idle
 - Added 19.c about simulating | operator with pipes
 - Added 20.c about using multiple pipes betwene 3 processes to send/get an int value
 - Added 21.c about waitpid for waiting a specific childprocess
+- Added 22.c(last lecture for now) about using multiple pipes (Ig polydirectional) and using loops with them efficiently
+
  
 ## Examples 
 - This part is fuck around and find out zone(probably will have a forkbomb for fun too)
